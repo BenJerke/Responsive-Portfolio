@@ -1,0 +1,135 @@
+*{
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
+    color: #777777;
+
+}
+
+#background {
+    padding: 0px;
+    background-image: url(../images/checkerboard-cross.png);
+}
+
+
+
+#header{
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    width: 100%;
+}
+
+#nameheader{
+    background-image: none;
+    float: none;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+    font-weight: bold;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+
+#navlinks{
+    padding-top: 10px;
+
+}
+
+.customnav{
+    color: #777777;
+    text-decoration: none;
+
+}
+
+#contentrow{
+    margin: -20px;
+}
+
+#content { 
+    background-image: none;
+    background-color: #ffffff;
+    padding: 5%;
+    border: 1px solid #cccccc;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+}
+
+#aboutme{
+    width: 100%;
+    background-image: none;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-left: -20px;
+    margin-top: -30px;
+    border-bottom: 1px solid #cccccc;
+    font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+    color: #4aaaa5;
+
+
+}
+
+#catboi {
+    position: relative;
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-left: -20px;
+
+}
+
+#footer{
+    background-image: none;
+    background-color: #666666;
+    text-align: center;
+    border: 4px solid;
+    border-top-color: #4aaaa5;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
+  
+}
+
+#footercontent{ 
+    color: #ffffff;
+    font-size: 11px;
+}
+
+#portfolio{
+    padding: 20px;
+    padding-left: 5%;
+    width: 100%;
+    background-image: none;
+    font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+    color: #4aaaa5;
+}
+
+
+#portfoliocontent img{
+
+    margin: 20px;
+
+}
+
+
+.label{
+    background-image: none;
+    float: left;
+    position: relative;
+    width: 300px;
+    height: 50px;
+    z-index: 9999;
+    background-color: #4aaaa5;
+    margin-top: -100px;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    color: #ffffff;
+    text-align: center;
+}
+
+.portlinks{
+    text-decoration: none;
+    color: #ffffff;
+
+}
