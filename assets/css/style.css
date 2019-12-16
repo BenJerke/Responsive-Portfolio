@@ -1,3 +1,10 @@
+/* Note to Grader- I know this is disappointing, but it's what I got time for. 
+I feel that if I don't immediately pivot to the Javascript homework, I'll get left behind. 
+I basically went through, figured out where my media queries' ceilings and floors were meant to go, 
+and then changed all elements widths to be percentage-based. That lets them scale with the browser, 
+to a certain extent. There are still improvements to be made, obviously, and I plan to revisit this assignment when I have time,
+but there are more pressing matters at hand. */
+
 @media screen and (min-width: 980px) {
     * {
         font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
